@@ -1,29 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC - CARLOS\\Desktop\\DEV\\Lógica de Programação\\Lógica de Programação.csproj": {}
+    "C:\\Users\\familia\\Desktop\\Projeto_Soma\\Lógica de Programação.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC - CARLOS\\Desktop\\DEV\\Lógica de Programação\\Lógica de Programação.csproj": {
+    "C:\\Users\\familia\\Desktop\\Projeto_Soma\\Lógica de Programação.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC - CARLOS\\Desktop\\DEV\\Lógica de Programação\\Lógica de Programação.csproj",
+        "projectUniqueName": "C:\\Users\\familia\\Desktop\\Projeto_Soma\\Lógica de Programação.csproj",
         "projectName": "Lógica de Programação",
-        "projectPath": "C:\\Users\\PC - CARLOS\\Desktop\\DEV\\Lógica de Programação\\Lógica de Programação.csproj",
-        "packagesPath": "C:\\Users\\PC - CARLOS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC - CARLOS\\Desktop\\DEV\\Lógica de Programação\\obj\\",
+        "projectPath": "C:\\Users\\familia\\Desktop\\Projeto_Soma\\Lógica de Programação.csproj",
+        "packagesPath": "C:\\Users\\familia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\familia\\Desktop\\Projeto_Soma\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC - CARLOS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\familia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -35,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -50,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }

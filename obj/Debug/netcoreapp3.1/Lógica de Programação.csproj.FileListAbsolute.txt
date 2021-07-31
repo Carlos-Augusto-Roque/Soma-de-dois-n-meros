@@ -11,3 +11,16 @@ C:\Users\PC - CARLOS\Desktop\DEV\Lógica de Programação\obj\Debug\netcoreapp3.
 C:\Users\PC - CARLOS\Desktop\DEV\Lógica de Programação\obj\Debug\netcoreapp3.1\Lógica de Programação.dll
 C:\Users\PC - CARLOS\Desktop\DEV\Lógica de Programação\obj\Debug\netcoreapp3.1\Lógica de Programação.pdb
 C:\Users\PC - CARLOS\Desktop\DEV\Lógica de Programação\obj\Debug\netcoreapp3.1\Lógica de Programação.genruntimeconfig.cache
+C:\Users\familia\Desktop\Projeto_Soma\bin\Debug\netcoreapp3.1\Lógica de Programação.exe
+C:\Users\familia\Desktop\Projeto_Soma\bin\Debug\netcoreapp3.1\Lógica de Programação.deps.json
+C:\Users\familia\Desktop\Projeto_Soma\bin\Debug\netcoreapp3.1\Lógica de Programação.runtimeconfig.json
+C:\Users\familia\Desktop\Projeto_Soma\bin\Debug\netcoreapp3.1\Lógica de Programação.runtimeconfig.dev.json
+C:\Users\familia\Desktop\Projeto_Soma\bin\Debug\netcoreapp3.1\Lógica de Programação.dll
+C:\Users\familia\Desktop\Projeto_Soma\bin\Debug\netcoreapp3.1\Lógica de Programação.pdb
+C:\Users\familia\Desktop\Projeto_Soma\obj\Debug\netcoreapp3.1\Lógica de Programação.csprojAssemblyReference.cache
+C:\Users\familia\Desktop\Projeto_Soma\obj\Debug\netcoreapp3.1\Lógica de Programação.AssemblyInfoInputs.cache
+C:\Users\familia\Desktop\Projeto_Soma\obj\Debug\netcoreapp3.1\Lógica de Programação.AssemblyInfo.cs
+C:\Users\familia\Desktop\Projeto_Soma\obj\Debug\netcoreapp3.1\Lógica de Programação.csproj.CoreCompileInputs.cache
+C:\Users\familia\Desktop\Projeto_Soma\obj\Debug\netcoreapp3.1\Lógica de Programação.dll
+C:\Users\familia\Desktop\Projeto_Soma\obj\Debug\netcoreapp3.1\Lógica de Programação.pdb
+C:\Users\familia\Desktop\Projeto_Soma\obj\Debug\netcoreapp3.1\Lógica de Programação.genruntimeconfig.cache
