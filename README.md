@@ -6,10 +6,6 @@ Nesta aplicação foi criado um sistema para soma de 2 números.
 
 - Na aplicação foram utilizados conceitos de lógica de programação. 
 
-<p align="center">  
-  <img alt="Eplayers" src="./prints/1.png" width="30%">  
-</p>
-
 ## Tecnologias 🛠 
 
 - VSCode para edição de código
